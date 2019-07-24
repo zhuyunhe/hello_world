@@ -43,4 +43,5 @@ thumbs.db
 .idea
 dist/
 node_modules/
+**/node_modules/
 jscoverage_lib/
